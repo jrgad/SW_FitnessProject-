@@ -8,15 +8,23 @@ Team Sci-Sickurity
 •  Mohamed Ahmed Ibrahim  203110
 
 Documentation Folder Contains :
+
 Phase1 Draft + Phase1 Final SRS Document
+
 Phase2 Draft (SDD Documentation)
 
 Diagrams Folder Contains :
+
 Class Diagram
+
 Sequence Diagram
+
 DB ER-D
+
 DFD
+
 Algorithm Design
+
 Ui design
 
 Ui Design Folder Contains :
